@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Stay Alive",
+  "base_artist": "エミリア（CV:高橋李依）",
+  "createdAt": "2025-12-31T11:25:19.329704Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Trying to Stay Alive",
+      "artist": "Wyclef Jean",
+      "has_synced": true,
+      "path": "select/01_We_Trying_to_Stay_Alive_Wyclef_Jean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stay Alive",
+      "artist": "Original Broadway Cast of Hamilton",
+      "has_synced": true,
+      "path": "select/02_Stay_Alive_Original_Broadway_Cast_of_Hamilton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I've Got to Rock (To Stay Alive)",
+      "artist": "Saxon",
+      "has_synced": false,
+      "path": "select/03_I've_Got_to_Rock_(To_Stay_Alive)_Saxon.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stay Alive",
+      "artist": "Poison",
+      "has_synced": false,
+      "path": "select/04_Stay_Alive_Poison.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stay Alive",
+      "artist": "The Pains of Being Pure At Heart",
+      "has_synced": true,
+      "path": "select/05_Stay_Alive_The_Pains_of_Being_Pure_At_Heart.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You've Got To Jive To Stay Alive - Spanish Midnight",
+      "artist": "Marc Bolan feat. T. Rex",
+      "has_synced": false,
+      "path": "select/06_You've_Got_To_Jive_To_Stay_Alive_-_Spanish_Midnight_Marc_Bolan_feat._T._Rex.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Got to Jive to Stay Alive—Spanish Midnight",
+      "artist": "Marc Bolan",
+      "has_synced": false,
+      "path": "select/07_You_Got_to_Jive_to_Stay_Alive—Spanish_Midnight_Marc_Bolan.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "STAY ALIVE",
+      "artist": "エミリア(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/08_STAY_ALIVE_エミリア(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stay Alive(instrumental)",
+      "artist": "エミリア(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/09_Stay_Alive(instrumental)_エミリア(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stay Alive (instrumental)",
+      "artist": "エミリア(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/10_Stay_Alive_(instrumental)_エミリア(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Look Alive, Stay Alive",
+      "artist": "Highly Suspect",
+      "has_synced": true,
+      "path": "select/11_Look_Alive,_Stay_Alive_Highly_Suspect.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Trying To Stay Alive - (Fea",
+      "artist": "Wyclef Jean",
+      "has_synced": true,
+      "path": "select/12_We_Trying_To_Stay_Alive_-_(Fea_Wyclef_Jean.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stay Alive (Reprise)",
+      "artist": "Lin-Manuel Miranda feat. Anthony Ramos, Phillipa Soo & Original Broadway Cast of Hamilton",
+      "has_synced": true,
+      "path": "select/13_Stay_Alive_(Reprise)_Lin-Manuel_Miranda_feat._Anthony_Ramos,_Phillipa_Soo_&_Original_Broadway_Cast_of.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stay Alive (Reprise)",
+      "artist": "Lin-Manuel Miranda, Anthony Ramos, Phillipa Soo & Original Broadway Cast of Hamilton",
+      "has_synced": true,
+      "path": "select/14_Stay_Alive_(Reprise)_Lin-Manuel_Miranda,_Anthony_Ramos,_Phillipa_Soo_&_Original_Broadway_Cast_of_Hami.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "So We Can Stay Alive",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/15_So_We_Can_Stay_Alive_Garbage.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stay Alive",
+      "artist": "Bachman-Turner Overdrive",
+      "has_synced": false,
+      "path": "select/16_Stay_Alive_Bachman-Turner_Overdrive.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Stay Alive",
+      "artist": "José González",
+      "has_synced": true,
+      "path": "select/17_Stay_Alive_José_González.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stay Alive",
+      "artist": "エミリア(CV:高橋李依)",
+      "has_synced": false,
+      "path": "select/pl_01_Stay_Alive_エミリア(CV_高橋李依).txt"
+    }
+  ]
+}
